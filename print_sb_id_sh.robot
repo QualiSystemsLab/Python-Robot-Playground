@@ -1,7 +1,7 @@
 *** Settings ***
 Library    Collections
 
-*** Test Case Sadanand ***
+*** Test Case ***
 Print sandbox id and 1st global input
 	print sandbox id      ${sandbox.id}
 
